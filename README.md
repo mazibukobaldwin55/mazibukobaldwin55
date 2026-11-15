@@ -40,7 +40,8 @@ Machine learning model and interactive web app that predicts a Premier League pl
 - **Tools:** Python, pandas, NumPy, scikit-learn, matplotlib, Streamlit, Jupyter
 
 🔗 View repository - https://github.com/mazibukobaldwin55/Premier-League-Player-Value-Prediction
-🚀 Live app - YOUR-STREAMLIT-APP-URL
+
+🚀 Live app - https://premier-league-player-value-prediction-zxpgkgqtqntxcsfjkywexo.streamlit.app/
 
 ### 🔹 Smart Pantry — Android Application (2026)
 
