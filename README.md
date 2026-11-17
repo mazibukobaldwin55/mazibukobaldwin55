@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm **Sihle Baldwin Mazibuko**, a final-year BSc Information Technology (Data Science) student at Richfield College in Johannesburg. I'm focused on turning data into practical, working tools. My latest project is a machine learning model that predicts Premier League player market values, with calibrated prediction intervals and a live Streamlit app. I also build Android apps and database-driven desktop systems, and I'm looking to grow in data analytics and machine learning.
+I’m **Sihle Baldwin Mazibuko**, a final-year BSc Information Technology (Data Science) student at Richfield College in Johannesburg. I build data-driven tools that solve real problems, from machine learning models to full applications people can actually use. My latest project is a machine learning model that predicts Premier League player market values, with calibrated prediction intervals and a live Streamlit app. I also build Android apps and database-driven desktop systems, and I’m looking to grow in data analytics and machine learning.
 
 ## 📂 Projects
 
@@ -53,6 +53,7 @@ Desktop inventory and point-of-sale system for a local pharmacy, built with Java
 ## 🎓 Certifications
 
 - **Microsoft Azure Fundamentals (AZ-900)** — Microsoft, via Coursera (2026). Covers core Azure services, cloud pricing models, security, and compliance, with practical understanding of Azure compute, storage, networking, and identity services.
+
 
   ## 🛠️ Skills
 
