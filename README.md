@@ -4,28 +4,6 @@
 
 I'm **Sihle Baldwin Mazibuko**, a final-year BSc Information Technology (Data Science) student at Richfield College in Johannesburg. I'm focused on turning data into practical, working tools. My latest project is a machine learning model that predicts Premier League player market values, with calibrated prediction intervals and a live Streamlit app. I also build Android apps and database-driven desktop systems, and I'm looking to grow in data analytics and machine learning.
 
-## 🌱 Currently Learning
-
-- Python for Data Science
-- Data Analysis
-- Machine Learning
-- SQL
-- Data Visualization
-- Statistics
-
-## 🛠️ Skills
-
-- **Languages:** Python, SQL, Java, Kotlin
-- **Data analysis:** pandas, NumPy, data cleaning and merging, feature engineering, exploratory analysis, visualization with matplotlib and seaborn
-- **Machine learning:** scikit-learn (pipelines, imputation, encoding, linear models, gradient boosting), walk-forward backtesting for time-ordered data, model evaluation (R², error analysis), permutation feature importance
-- **Statistics:** regression modelling, log transformations, conformal prediction intervals and coverage calibration
-- **Deployment:** Streamlit apps, model persistence with joblib, Streamlit Community Cloud
-- **Mobile:** Android app development (Android Studio, Jetpack, Material Design), MVVM / Clean Architecture
-- **Desktop:** Java Swing/AWT GUI development
-- **Databases:** MySQL, JDBC, relational database design
-- **Cloud:** Microsoft Azure (AZ-900 certified), cloud computing fundamentals
-- **Tools:** Jupyter, IntelliJ IDEA, Android Studio, MySQL Workbench, Gradle, Git & GitHub
-
 ## 📂 Projects
 
 ### 🔹 Premier League Player Market Value Prediction (2026)
@@ -75,6 +53,28 @@ Desktop inventory and point-of-sale system for a local pharmacy, built with Java
 ## 🎓 Certifications
 
 - **Microsoft Azure Fundamentals (AZ-900)** — Microsoft, via Coursera (2026). Covers core Azure services, cloud pricing models, security, and compliance, with practical understanding of Azure compute, storage, networking, and identity services.
+
+  ## 🛠️ Skills
+
+- **Languages:** Python, SQL, Java, Kotlin
+- **Data analysis:** pandas, NumPy, data cleaning and merging, feature engineering, exploratory analysis, visualization with matplotlib and seaborn
+- **Machine learning:** scikit-learn (pipelines, imputation, encoding, linear models, gradient boosting), walk-forward backtesting for time-ordered data, model evaluation (R², error analysis), permutation feature importance
+- **Statistics:** regression modelling, log transformations, conformal prediction intervals and coverage calibration
+- **Deployment:** Streamlit apps, model persistence with joblib, Streamlit Community Cloud
+- **Mobile:** Android app development (Android Studio, Jetpack, Material Design), MVVM / Clean Architecture
+- **Desktop:** Java Swing/AWT GUI development
+- **Databases:** MySQL, JDBC, relational database design
+- **Cloud:** Microsoft Azure (AZ-900 certified), cloud computing fundamentals
+- **Tools:** Jupyter, IntelliJ IDEA, Android Studio, MySQL Workbench, Gradle, Git & GitHub
+
+  ## 🌱 Currently Learning
+
+- Python for Data Science
+- Data Analysis
+- Machine Learning
+- SQL
+- Data Visualization
+- Statistics
 
 ## 🎯 Goals
 
